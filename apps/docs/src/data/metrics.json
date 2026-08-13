@@ -9879,10 +9879,10 @@
   },
   "useDragDrop": {
     "coverage": {
-      "statements": 97.8,
+      "statements": 97.9,
       "functions": 100,
       "branches": 100,
-      "overall": 98.9
+      "overall": 99
     }
   },
   "useEventListener": {
